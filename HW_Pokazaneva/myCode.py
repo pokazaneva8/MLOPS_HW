@@ -1,1 +1,1 @@
-print("000000qeertyuiegh")
+print("000000qeertyuiegh") # [ ] Изменить
