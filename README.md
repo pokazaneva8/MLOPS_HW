@@ -6,6 +6,27 @@
 
 This is my homework.
 
+# ml_lab
+
+## Setup environment
+
+1. Создать виртуальное окружение:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # Linux/Mac
+   venv\Scripts\activate  # Windows
+   ```
+
+2. Установить зависимости:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Установить pre-commit:
+   ```bash
+   pre-commit install
+   ```
+
 ## Project Organization
 
 ```
