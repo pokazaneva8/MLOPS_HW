@@ -16,4 +16,4 @@ fibonacci_numbers = generate_fibonacci_sequence(max_value)
 
 fibonacci_in_sequence = [num for num in random_sequence if num in fibonacci_numbers]
 
-print("Числа Фибоначчи в случайной последовательности:", fibonacci_in_sequence)
+print("Числа Фибоначчи в рандомной последовательности:", fibonacci_in_sequence)
